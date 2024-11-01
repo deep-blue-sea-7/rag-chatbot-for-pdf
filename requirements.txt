@@ -1,0 +1,10 @@
+# pip3 install -r requirements.txt
+streamlit
+openai
+tiktoken
+astrapy
+langchain
+langchain_openai 
+langchain-community
+langchain_astradb
+pypdf
