@@ -34,7 +34,7 @@ Pypdf
 
 ### 1. Use Live
 
-You can run this now here: https://streamlit
+You can run this now here: **[Live App on Streamlit](https://rag-chatbot-for-pdf.streamlit.app)**
 
 ### 2. Set up for Running the App Locally
 
